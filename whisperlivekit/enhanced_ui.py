@@ -16,6 +16,7 @@ def get_enhanced_ui_html():
             --accent: #4CAF50;
             --border: #e0e0e0;
             --shadow: rgba(0,0,0,0.1);
+            --github-star: #ffd700;
         }
         
         [data-theme="dark"] {
@@ -26,6 +27,7 @@ def get_enhanced_ui_html():
             --accent: #66BB6A;
             --border: #404040;
             --shadow: rgba(0,0,0,0.3);
+            --github-star: #ffd700;
         }
         
         body {
@@ -47,7 +49,7 @@ def get_enhanced_ui_html():
             align-items: center;
             padding: 20px 0;
             border-bottom: 2px solid var(--border);
-            margin-bottom: 30px;
+            margin-bottom: 20px;
         }
         
         h1 { font-size: 28px; color: var(--accent); }
@@ -56,6 +58,74 @@ def get_enhanced_ui_html():
             display: flex;
             gap: 10px;
             align-items: center;
+        }
+        
+        /* GitHub 按钮组样式 */
+        .github-buttons {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            padding: 15px;
+            background: linear-gradient(135deg, var(--bg-secondary) 0%, var(--bg-primary) 100%);
+            border-radius: 12px;
+            box-shadow: 0 2px 8px var(--shadow);
+            flex-wrap: wrap;
+            align-items: center;
+        }
+        
+        .github-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 10px 20px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 14px;
+            transition: all 0.3s ease;
+            border: 2px solid transparent;
+        }
+        
+        .github-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px var(--shadow);
+        }
+        
+        .btn-star {
+            background: linear-gradient(135deg, #ffd700 0%, #ffed4e 100%);
+            color: #000;
+            border-color: #ffd700;
+            font-size: 16px;
+            font-weight: 600;
+            animation: pulse 2s infinite;
+        }
+        
+        .btn-star:hover {
+            background: linear-gradient(135deg, #ffed4e 0%, #ffd700 100%);
+            box-shadow: 0 4px 20px rgba(255, 215, 0, 0.4);
+        }
+        
+        .btn-bug {
+            background: #f44336;
+            color: white;
+        }
+        
+        .btn-bug:hover {
+            background: #d32f2f;
+        }
+        
+        .btn-feature {
+            background: #2196F3;
+            color: white;
+        }
+        
+        .btn-feature:hover {
+            background: #1976D2;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.05); }
         }
         
         button {
@@ -86,6 +156,7 @@ def get_enhanced_ui_html():
         
         @media (max-width: 768px) {
             .main-content { grid-template-columns: 1fr; }
+            .github-buttons { justify-content: center; }
         }
         
         .transcription-area {
@@ -171,6 +242,19 @@ def get_enhanced_ui_html():
                 <button class="btn-secondary" onclick="toggleSettings()">⚙️</button>
             </div>
         </header>
+        
+        <!-- GitHub 按钮组 -->
+        <div class="github-buttons">
+            <a href="https://github.com/neosun100/whisperlivekit-enhanced" target="_blank" class="github-btn btn-star">
+                ⭐ Star on GitHub
+            </a>
+            <a href="https://github.com/neosun100/whisperlivekit-enhanced/issues/new?labels=bug&template=bug_report.md" target="_blank" class="github-btn btn-bug">
+                🐛 Report Bug
+            </a>
+            <a href="https://github.com/neosun100/whisperlivekit-enhanced/issues/new?labels=enhancement&template=feature_request.md" target="_blank" class="github-btn btn-feature">
+                💡 Request Feature
+            </a>
+        </div>
         
         <div class="main-content">
             <div>
